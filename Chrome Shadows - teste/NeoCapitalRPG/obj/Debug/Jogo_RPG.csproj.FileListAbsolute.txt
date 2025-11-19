@@ -1,0 +1,7 @@
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Sétimo Semestre\Desenvolvimento de Jogos\Desenvolvimento_de_Jogos\Chrome Shadows\Jogo_RPG\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Sétimo Semestre\Desenvolvimento de Jogos\Desenvolvimento_de_Jogos\Chrome Shadows\Jogo_RPG\bin\Debug\ConsoleApp1.exe
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Sétimo Semestre\Desenvolvimento de Jogos\Desenvolvimento_de_Jogos\Chrome Shadows\Jogo_RPG\bin\Debug\ConsoleApp1.pdb
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Sétimo Semestre\Desenvolvimento de Jogos\Desenvolvimento_de_Jogos\Chrome Shadows\Jogo_RPG\obj\Debug\Jogo_RPG.csproj.AssemblyReference.cache
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Sétimo Semestre\Desenvolvimento de Jogos\Desenvolvimento_de_Jogos\Chrome Shadows\Jogo_RPG\obj\Debug\Jogo_RPG.csproj.CoreCompileInputs.cache
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Sétimo Semestre\Desenvolvimento de Jogos\Desenvolvimento_de_Jogos\Chrome Shadows\Jogo_RPG\obj\Debug\ConsoleApp1.exe
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Sétimo Semestre\Desenvolvimento de Jogos\Desenvolvimento_de_Jogos\Chrome Shadows\Jogo_RPG\obj\Debug\ConsoleApp1.pdb
