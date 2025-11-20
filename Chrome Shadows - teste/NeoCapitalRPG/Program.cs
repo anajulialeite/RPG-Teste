@@ -1,8 +1,7 @@
-﻿using NeoCapitalRPG.Model;
+﻿using NeoCapitalRPG.Core;
 using System;
 
-namespace NeoCapitalRPG.Model
-
+namespace NeoCapitalRPG
 {
     class Program
     {
@@ -13,8 +12,9 @@ namespace NeoCapitalRPG.Model
                 Console.OutputEncoding = System.Text.Encoding.UTF8;
                 Console.Title = "Neo-Capital: Caçador de Créditos";
 
+                // cria o jogo com todos os serviços
                 Jogo jogo = new Jogo();
-                jogo.IniciarJogo();
+                jogo.Iniciar();
 
                 Console.WriteLine("\nObrigado por jogar Neo-Capital: Caçador de Créditos!");
                 Console.WriteLine("Pressione qualquer tecla para sair...");

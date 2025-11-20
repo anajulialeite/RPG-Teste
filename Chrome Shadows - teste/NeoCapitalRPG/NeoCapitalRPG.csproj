@@ -47,16 +47,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ambientes\FerroVelhoService.cs" />
+    <Compile Include="Ambientes\MercadoService.cs" />
     <Compile Include="Helpers\AudioHelper.cs" />
     <Compile Include="Menus\CriarPersonagemMenu.cs" />
     <Compile Include="Menus\EscolhaArmaMenu.cs" />
     <Compile Include="Model\Arma.cs" />
     <Compile Include="Model\Inimigo.cs" />
-    <Compile Include="Jogo.cs" />
+    <Compile Include="Core\Jogo.cs" />
     <Compile Include="Model\Personagem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\ArmaService.cs" />
     <Compile Include="Services\ArteService.cs" />
+    <Compile Include="Services\AudioService.cs" />
+    <Compile Include="Services\CombateService.cs" />
+    <Compile Include="Services\MenuService.cs" />
+    <Compile Include="Services\MissaoService.cs" />
+    <Compile Include="Util\RandomService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

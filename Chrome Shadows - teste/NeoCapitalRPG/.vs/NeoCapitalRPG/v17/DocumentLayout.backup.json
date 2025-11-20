@@ -1,49 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\",
+  "WorkspaceRootPath": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|c:\\users\\master\\desktop\\rpg-teste\\chrome shadows - teste\\neocapitalrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|c:\\users\\master\\desktop\\chrome shadows - teste\\neocapitalrpg\\services\\arteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|c:\\users\\master\\desktop\\rpg-teste\\chrome shadows - teste\\neocapitalrpg\\util\\randomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:util\\randomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|c:\\users\\master\\desktop\\rpg-teste\\chrome shadows - teste\\neocapitalrpg\\services\\missaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:services\\missaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|c:\\users\\master\\desktop\\rpg-teste\\chrome shadows - teste\\neocapitalrpg\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|c:\\users\\master\\desktop\\rpg-teste\\chrome shadows - teste\\neocapitalrpg\\services\\combateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:services\\combateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|c:\\users\\master\\desktop\\rpg-teste\\chrome shadows - teste\\neocapitalrpg\\services\\audioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:services\\audioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\services\\arteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:services\\arteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\menus\\escolhaarmamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:menus\\escolhaarmamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|c:\\users\\master\\desktop\\rpg-teste\\chrome shadows - teste\\neocapitalrpg\\services\\armaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:services\\armaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\menus\\criarpersonagemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:menus\\criarpersonagemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\model\\arma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:model\\arma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\model\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\model\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:model\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\model\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\model\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:model\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\helpers\\audiohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\model\\arma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:model\\arma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\menus\\escolhaarmamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:menus\\escolhaarmamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\menus\\criarpersonagemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:menus\\criarpersonagemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|c:\\users\\master\\desktop\\rpg-teste\\chrome shadows - teste\\neocapitalrpg\\core\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:core\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|c:\\users\\master\\desktop\\rpg-teste\\chrome shadows - teste\\neocapitalrpg\\ambientes\\mercadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:ambientes\\mercadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|c:\\users\\master\\desktop\\rpg-teste\\chrome shadows - teste\\neocapitalrpg\\ambientes\\ferrovelhoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:ambientes\\ferrovelhoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\helpers\\audiohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:helpers\\audiohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -54,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,6 +95,110 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RandomService.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Util\\RandomService.cs",
+              "RelativeDocumentMoniker": "Util\\RandomService.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Util\\RandomService.cs",
+              "RelativeToolTip": "Util\\RandomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:37:34.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MercadoService.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Ambientes\\MercadoService.cs",
+              "RelativeDocumentMoniker": "Ambientes\\MercadoService.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Ambientes\\MercadoService.cs",
+              "RelativeToolTip": "Ambientes\\MercadoService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:36:17.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FerroVelhoService.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Ambientes\\FerroVelhoService.cs",
+              "RelativeDocumentMoniker": "Ambientes\\FerroVelhoService.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Ambientes\\FerroVelhoService.cs",
+              "RelativeToolTip": "Ambientes\\FerroVelhoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:36:00.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArmaService.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Services\\ArmaService.cs",
+              "RelativeDocumentMoniker": "Services\\ArmaService.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Services\\ArmaService.cs",
+              "RelativeToolTip": "Services\\ArmaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:59:48.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Services\\MenuService.cs",
+              "RelativeDocumentMoniker": "Services\\MenuService.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Services\\MenuService.cs",
+              "RelativeToolTip": "Services\\MenuService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:59:35.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MissaoService.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Services\\MissaoService.cs",
+              "RelativeDocumentMoniker": "Services\\MissaoService.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Services\\MissaoService.cs",
+              "RelativeToolTip": "Services\\MissaoService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:59:09.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CombateService.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Services\\CombateService.cs",
+              "RelativeDocumentMoniker": "Services\\CombateService.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Services\\CombateService.cs",
+              "RelativeToolTip": "Services\\CombateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:58:50.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AudioService.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Services\\AudioService.cs",
+              "RelativeDocumentMoniker": "Services\\AudioService.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Services\\AudioService.cs",
+              "RelativeToolTip": "Services\\AudioService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:58:27.125Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -74,48 +210,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ArteService.cs",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\Services\\ArteService.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Services\\ArteService.cs",
               "RelativeDocumentMoniker": "Services\\ArteService.cs",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\Services\\ArteService.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Services\\ArteService.cs",
               "RelativeToolTip": "Services\\ArteService.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T00:53:51.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "EscolhaArmaMenu.cs",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\Menus\\EscolhaArmaMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Menus\\EscolhaArmaMenu.cs",
               "RelativeDocumentMoniker": "Menus\\EscolhaArmaMenu.cs",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\Menus\\EscolhaArmaMenu.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Menus\\EscolhaArmaMenu.cs",
               "RelativeToolTip": "Menus\\EscolhaArmaMenu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T00:50:54.257Z"
+              "WhenOpened": "2025-11-19T00:50:54.257Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "CriarPersonagemMenu.cs",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\Menus\\CriarPersonagemMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Menus\\CriarPersonagemMenu.cs",
               "RelativeDocumentMoniker": "Menus\\CriarPersonagemMenu.cs",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\Menus\\CriarPersonagemMenu.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Menus\\CriarPersonagemMenu.cs",
               "RelativeToolTip": "Menus\\CriarPersonagemMenu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T00:45:14.587Z"
+              "WhenOpened": "2025-11-19T00:45:14.587Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\App.config",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\App.config",
               "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\App.config",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\App.config",
               "RelativeToolTip": "App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -123,11 +261,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "AudioHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\Helpers\\AudioHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Helpers\\AudioHelper.cs",
               "RelativeDocumentMoniker": "Helpers\\AudioHelper.cs",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\Helpers\\AudioHelper.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Helpers\\AudioHelper.cs",
               "RelativeToolTip": "Helpers\\AudioHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,36 +273,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "Jogo.cs",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\Jogo.cs",
-              "RelativeDocumentMoniker": "Jogo.cs",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\Jogo.cs",
-              "RelativeToolTip": "Jogo.cs",
-              "ViewState": "AgIAAM8AAAAAAAAAAAAiwOkAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Core\\Jogo.cs",
+              "RelativeDocumentMoniker": "Core\\Jogo.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Core\\Jogo.cs",
+              "RelativeToolTip": "Core\\Jogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T06:07:14.544Z"
+              "WhenOpened": "2025-09-23T06:07:14.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\Program.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T01:02:56.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\packages.config",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\packages.config",
               "RelativeDocumentMoniker": "packages.config",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\packages.config",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\packages.config",
               "RelativeToolTip": "packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -172,39 +311,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Personagem.cs",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\Model\\Personagem.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Model\\Personagem.cs",
               "RelativeDocumentMoniker": "Model\\Personagem.cs",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\Model\\Personagem.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Model\\Personagem.cs",
               "RelativeToolTip": "Model\\Personagem.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T01:02:28.779Z"
+              "WhenOpened": "2025-09-23T01:02:28.779Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Inimigo.cs",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\Model\\Inimigo.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Model\\Inimigo.cs",
               "RelativeDocumentMoniker": "Model\\Inimigo.cs",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\Model\\Inimigo.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Model\\Inimigo.cs",
               "RelativeToolTip": "Model\\Inimigo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T01:02:25.63Z"
+              "WhenOpened": "2025-09-23T01:02:25.63Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Arma.cs",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\Model\\Arma.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Model\\Arma.cs",
               "RelativeDocumentMoniker": "Model\\Arma.cs",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\Chrome Shadows - teste\\NeoCapitalRPG\\Model\\Arma.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\RPG-Teste\\Chrome Shadows - teste\\NeoCapitalRPG\\Model\\Arma.cs",
               "RelativeToolTip": "Model\\Arma.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T01:02:20.772Z"
+              "WhenOpened": "2025-09-23T01:02:20.772Z",
+              "EditorCaption": ""
             }
           ]
         }
