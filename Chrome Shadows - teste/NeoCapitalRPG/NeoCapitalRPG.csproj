@@ -49,12 +49,13 @@
   <ItemGroup>
     <Compile Include="Ambientes\FerroVelhoService.cs" />
     <Compile Include="Ambientes\MercadoService.cs" />
+    <Compile Include="Core\ExibirJogo.cs" />
     <Compile Include="Helpers\AudioHelper.cs" />
     <Compile Include="Menus\CriarPersonagemMenu.cs" />
     <Compile Include="Menus\EscolhaArmaMenu.cs" />
     <Compile Include="Model\Arma.cs" />
-    <Compile Include="Model\Inimigo.cs" />
     <Compile Include="Core\Jogo.cs" />
+    <Compile Include="Model\Inimigo.cs" />
     <Compile Include="Model\Personagem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -1,5 +1,4 @@
-﻿using NeoCapitalRPG.Model;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,22 +6,29 @@ using System.Threading.Tasks;
 
 namespace NeoCapitalRPG.Model
 {
-    public class Inimigo
+    public class Inimigo : Personagem
     {
-        public string Nome { get; set; }
-        public int HP { get; set; }
-        public int Ataque { get; set; }
-        public int CreditosRecompensa { get; set; }
+        // Adiciona uma propriedade Dano para o combate
+        public int Dano { get; set; }
+
+        // [Correção 3] Adiciona as propriedades de recompensa
         public int XPRecompensa { get; set; }
+        public int CreditosRecompensa { get; set; }
 
-
-        public Inimigo(string nome, int hp, int ataque, int creditos, int xp)
+        // [Correção 4] Construtor que aceita 5 argumentos
+        public Inimigo(string nome, int hp, int dano, int xpRecompensa, int creditosRecompensa)
+            : base(nome, "Inimigo") // Chama o construtor base (Personagem)
         {
-            Nome = nome;
-            HP = hp;
-            Ataque = ataque;
-            CreditosRecompensa = creditos;
-            XPRecompensa = xp;
+            this.HP = hp;
+            this.Dano = dano;
+            this.XPRecompensa = xpRecompensa;
+            this.CreditosRecompensa = creditosRecompensa;
+        }
+
+        // Construtor com 2 argumentos (mantido do exemplo anterior)
+        public Inimigo(string nome, int hp) : base(nome, "Inimigo")
+        {
+            this.HP = hp;
         }
     }
 }

@@ -26,3 +26,10 @@ C:\Users\Master\Desktop\RPG-Teste\Chrome Shadows - teste\NeoCapitalRPG\obj\Debug
 C:\Users\Master\Desktop\RPG-Teste\Chrome Shadows - teste\NeoCapitalRPG\obj\Debug\NeoCapitalRPG.csproj.CoreCompileInputs.cache
 C:\Users\Master\Desktop\RPG-Teste\Chrome Shadows - teste\NeoCapitalRPG\obj\Debug\ConsoleApp1.exe
 C:\Users\Master\Desktop\RPG-Teste\Chrome Shadows - teste\NeoCapitalRPG\obj\Debug\ConsoleApp1.pdb
+C:\Users\Master\Desktop\RPG-Teste\Chrome Shadows - teste\NeoCapitalRPG\bin\Debug\Music\keyboard-typing-sound-effect-335503.mp3
+C:\Users\Master\Desktop\RPG-Teste\Chrome Shadows - teste\NeoCapitalRPG\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Master\Desktop\RPG-Teste\Chrome Shadows - teste\NeoCapitalRPG\bin\Debug\ConsoleApp1.exe
+C:\Users\Master\Desktop\RPG-Teste\Chrome Shadows - teste\NeoCapitalRPG\bin\Debug\ConsoleApp1.pdb
+C:\Users\Master\Desktop\RPG-Teste\Chrome Shadows - teste\NeoCapitalRPG\bin\Debug\NAudio.dll
+C:\Users\Master\Desktop\RPG-Teste\Chrome Shadows - teste\NeoCapitalRPG\bin\Debug\NAudio.xml
+C:\Users\Master\Desktop\RPG-Teste\Chrome Shadows - teste\NeoCapitalRPG\obj\Debug\NeoCapit.0B9898E9.Up2Date

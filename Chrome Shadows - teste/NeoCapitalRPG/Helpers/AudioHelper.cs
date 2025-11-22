@@ -5,66 +5,29 @@ using System.Threading;
 
 namespace NeoCapitalRPG.Helpers
 {
-    internal class AudioHelper
+    public class AudioHelper
     {
-        private static WaveOutEvent outputDevice;
-        private static AudioFileReader audioFile;
-        private static Thread audioThread;
-        private static bool pararMusica = false;
+        private WaveOutEvent _outputDevice;
+        private Thread _thread;
+        private volatile bool _parar = false;
 
-        public static void TocarMusicaEmLoop(string caminhoCompleto, float volume = 1.0f)
+        public AudioHelper()
         {
-            if (!File.Exists(caminhoCompleto))
-            {
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine($"Arquivo não encontrado: {caminhoCompleto}");
-                Console.ResetColor();
-                return;
-            }
-
-            pararMusica = false;
-
-            audioThread = new Thread(() =>
-            {
-                try
-                {
-                    using (audioFile = new AudioFileReader(caminhoCompleto))
-                    using (outputDevice = new WaveOutEvent())
-                    {
-                        outputDevice.Init(audioFile);
-                        outputDevice.Volume = volume;
-
-                        while (!pararMusica)
-                        {
-                            audioFile.Position = 0;
-                            outputDevice.Play();
-                            while (outputDevice.PlaybackState == PlaybackState.Playing && !pararMusica)
-                            {
-                                Thread.Sleep(100);
-                            }
-                        }
-
-                        outputDevice.Stop();
-                    }
-                }
-                catch (Exception ex)
-                {
-                    Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine($"Erro ao tocar música: {ex.Message}");
-                    Console.ResetColor();
-                }
-            });
-
-            audioThread.IsBackground = true; // garante que feche ao sair do programa
-            audioThread.Start();
+            // Inicialização do dispositivo de áudio
+            _outputDevice = new WaveOutEvent();
         }
 
-        public static void PararMusica()
+        public void Tocar(string arquivo)
         {
-            pararMusica = true;
-            if (audioThread != null && audioThread.IsAlive)
+            // Lógica para tocar o arquivo de áudio
+        }
+
+        public void Parar()
+        {
+            _parar = true;
+            if (_outputDevice != null)
             {
-                audioThread.Join();
+                _outputDevice.Stop();
             }
         }
     }

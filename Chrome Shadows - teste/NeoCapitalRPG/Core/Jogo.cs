@@ -41,8 +41,29 @@ namespace NeoCapitalRPG.Core
 
             _arte.Exibir("cidade");
             Console.WriteLine("═══ PRÓLOGO ═══");
-            // exemplo de narrativa curta
-            _menu.EscolherArmaInicial(_jogador);
+            string[] introducao = {
+                "O ano é 2147. A cidade Neo-Capital, construída sobre a antiga São Paulo,",
+                "está mais populosa do que nunca. Isso a faz entrar em um ciclo inquebrável de violência.",
+                "",
+                "Megacorporações, controladas por donos sem rosto, ditam tudo:",
+                "a comida, as informações… até o ar que você respira é monitorado.",
+                "",
+                "Não existem mais becos escuros, pois em cada esquina há um letreiro de neon",
+                "tentando chamar sua atenção. Também não existem mais locais seguros:",
+                "gangues cibernéticas extremamente violentas disputam o pouco de liberdade restante",
+                "contra drones e droids mercenários da polícia.",
+                "",
+                "É aí que você entra: um(a) caçador(a) de créditos que, após mais uma briga",
+                "genérica de bar, se vê preso em um dilema incomum.",
+                "",
+                "O problema? O mesmo dia se repete, sempre!",
+                "",
+                "Toda vez que o sol 'nasce', você desperta na mesma viela suja,",
+                "com as mesmas oportunidades de luta.",
+                "",
+                "Talvez, se ficar forte o bastante, consiga abrir uma brecha e quebrar o ciclo..."
+            };
+            _menu.Obter(_jogador);
 
 
             while (true)

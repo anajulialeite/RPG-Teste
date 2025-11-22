@@ -5,25 +5,33 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NeoCapitalRPG.Servicos
+namespace NeoCapitalRPG.Model
 {
-    public class ArmaService
+    public class Arma
     {
-        public List<Arma> ObterArmasIniciais()
+        public string Nome { get; set; }
+        public int Dano { get; set; }
+        public int Durabilidade { get; set; }
+
+        public Arma() { }
+
+        public Arma(string nome, int dano, int durabilidade)
         {
-            return Arma.ObterArmasIniciais();
+            this.Nome = nome;
+            this.Dano = dano;
+            this.Durabilidade = durabilidade;
         }
 
-
-        public Arma ObterMelhoramento(Arma atual)
+        // [CORREÇÃO] Adiciona o método estático ObterArmasIniciais, que estava faltando.
+        public static List<Arma> ObterArmasIniciais()
         {
-            // lógica simples: se for Cano de Ferro -> Cano Blindado
-            if (atual == null) return null;
-            if (atual.Nome.Contains("Cano de Ferro"))
-                return new Arma("Cano Blindado", 10, "Melhoramento do cano de ferro com peças coletadas");
-
-
-            return atual;
+            // Retorna as armas iniciais que o menu precisa
+            return new List<Arma>
+            {
+                new Arma("Punho de Ferro", 5, 50),
+                new Arma("Faca de Sobrevivência", 3, 30),
+                new Arma("Cano Blindado", 10, 100)
+            };
         }
     }
 }
